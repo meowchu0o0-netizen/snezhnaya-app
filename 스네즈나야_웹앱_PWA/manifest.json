@@ -1,0 +1,15 @@
+{
+  "name": "스네즈나야 드림 아카데미아",
+  "short_name": "Academia",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a0811",
+  "theme_color": "#3d1a24",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
